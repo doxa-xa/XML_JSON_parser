@@ -1,4 +1,6 @@
-!!!Prerequisites: Python (Python3 for Linux) version over 3.8 and Git
+!!!Prerequisites: 
+- Python (Python3 for Linux) version over 3.8 
+- Git (in order to clone it from my repository)
 =====================================================================
 
 1.Run the following commands:
